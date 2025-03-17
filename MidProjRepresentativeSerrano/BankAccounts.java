@@ -14,7 +14,7 @@ public class BankAccounts{
         }
 
     /**
-     *This
+     *This 
      * @param accountNo Post object to initialize AccountNo
      * @param accountName Post object to initialize AccountName
      */
@@ -54,7 +54,7 @@ public class BankAccounts{
         }
 
     /**
-     *
+     *this sets the account number so its user can set any values
      * @param accountNo this post object is to set the AccountNo
      */
 
@@ -62,6 +62,9 @@ public class BankAccounts{
             this.accountNo = accountNo;
 
         }
+
+        /**
+        
 
         public void setAccountName(String accountName) {
             this.accountName = accountName;
